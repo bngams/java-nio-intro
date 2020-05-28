@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class Main {
+public class ReadWithFilesLines {
     public static void main(String[] args) {
         readLines();
         readLinesWithFilter();
